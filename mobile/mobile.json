@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
+  "version": "1.2.2",
   "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile.apk",
-  "notes": "scanner beep + distinct success/fail/duplicate sounds; batch de-dup with deliberate re-scan"
+  "notes": "non-blocking batch queue (camera never stops) + camera-side de-dup; distinct failure vibration; Sound/Haptics toggles in Settings; in-app installer"
 }
