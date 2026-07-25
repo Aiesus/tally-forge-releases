@@ -1,5 +1,5 @@
 {
-  "version": "1.4.1",
+  "version": "1.4.2",
   "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile.apk",
-  "notes": "Fix: already-signed cards now read as 'already signed' not error; post-sign verify no longer false-fails (detection was requiring cell text the phone lacks); verify retries once"
+  "notes": "TOMX column now counts not-tallied cards (all audit types + Exclude Tallied Cards checkbox + DEFAULT) instead of type=1st Audit"
 }
