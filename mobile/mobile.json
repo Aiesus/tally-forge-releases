@@ -1,5 +1,5 @@
 {
-  "version": "1.4.0",
+  "version": "1.4.1",
   "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile.apk",
-  "notes": "Overview: add TOMX column (cards awaiting 1st audit, DEFAULT mode); Ready column now 'Sample'; both counted in one aircraft-select"
+  "notes": "Fix: already-signed cards now read as 'already signed' not error; post-sign verify no longer false-fails (detection was requiring cell text the phone lacks); verify retries once"
 }
