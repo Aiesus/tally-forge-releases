@@ -1,5 +1,5 @@
 {
-  "version": "1.3.2",
+  "version": "1.3.3",
   "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile.apk",
-  "notes": "Overview overcount fix: poll the Search Results header until it settles (was reading a transient/unfiltered total mid-render); verify the Sample filter applied before counting"
+  "notes": "Overview: retry once + longer settle for flaky phone counts; each failure now names its reason; update check bypasses CDN cache"
 }
