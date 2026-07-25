@@ -1,5 +1,5 @@
 {
-  "version": "1.2.2",
+  "version": "1.3.0",
   "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile.apk",
-  "notes": "non-blocking batch queue (camera never stops) + camera-side de-dup; distinct failure vibration; Sound/Haptics toggles in Settings; in-app installer"
+  "notes": "Overview tab: per-aircraft ready-to-sign counts"
 }
