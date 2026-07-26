@@ -1,5 +1,5 @@
 {
-  "version": "1.4.3",
-  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile.apk",
-  "notes": "Scans auto-retry once on a transient failure (the 'works when I retry' case) \u2014 safe/idempotent, never double-signs"
+  "version": "1.4.4",
+  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.4.4.apk",
+  "notes": "Fix OTA lag: check manifest via GitHub API (60s) not raw CDN (5min, ignores cache-buster); version-stamped APK filename so downloads are never stale"
 }
