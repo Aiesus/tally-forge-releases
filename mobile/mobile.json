@@ -1,5 +1,5 @@
 {
-  "version": "1.4.2",
+  "version": "1.4.3",
   "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile.apk",
-  "notes": "TOMX column now counts not-tallied cards (all audit types + Exclude Tallied Cards checkbox + DEFAULT) instead of type=1st Audit"
+  "notes": "Scans auto-retry once on a transient failure (the 'works when I retry' case) \u2014 safe/idempotent, never double-signs"
 }
