@@ -1,5 +1,5 @@
 {
-  "version": "1.5.1",
-  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.5.1.apk",
-  "notes": "Scan: unique-captures counter beside signed counter (both reset together); camera format guard ignores anything that isn't a 12-digit card ref (stops stray page-flip captures), rejections shown not silent"
+  "version": "1.5.2",
+  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.5.2.apk",
+  "notes": "Both counters (scanned/signed) now count DISTINCT cards, so re-scanning never double-counts and the two stay in sync"
 }
