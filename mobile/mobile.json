@@ -1,5 +1,5 @@
 {
-  "version": "1.5.3",
-  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.5.3.apk",
-  "notes": "Fix: camera was rejecting all real cards \u2014 the format guard demanded exactly 12 digits but the physical barcodes are 13. Now accepts any all-digit code 8+ long; rejections show the char count"
+  "version": "1.5.4",
+  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.5.4.apk",
+  "notes": "Remove the capture format filter entirely \u2014 it was wrongly rejecting real cards and never solved the real stray problem. Camera accepts everything again like before; strays to be handled by a scan window instead"
 }
