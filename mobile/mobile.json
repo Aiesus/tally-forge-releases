@@ -1,5 +1,5 @@
 {
-  "version": "1.5.4",
-  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.5.4.apk",
-  "notes": "Remove the capture format filter entirely \u2014 it was wrongly rejecting real cards and never solved the real stray problem. Camera accepts everything again like before; strays to be handled by a scan window instead"
+  "version": "1.5.5",
+  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.5.5.apk",
+  "notes": "misread gate (all-digits 10+) + verify in place, no re-search"
 }
