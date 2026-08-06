@@ -1,5 +1,5 @@
 {
-  "version": "1.5.9",
-  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.5.9.apk",
-  "notes": "recon: capture loading-mask class names during a count (Overview shows 'mask diag')"
+  "version": "1.5.10",
+  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.5.10.apk",
+  "notes": "Phase B (safe): drop redundant post-search _settle in count path; capture header-settle timeline"
 }
