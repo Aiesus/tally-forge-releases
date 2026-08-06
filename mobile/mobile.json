@@ -1,5 +1,5 @@
 {
-  "version": "1.5.11",
-  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.5.11.apk",
-  "notes": "Phase B: cut _stableSearchCount floor 2.5s->1s + faster poll (from live 7:43 data); Overview counts quicker"
+  "version": "1.5.12",
+  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.5.12.apk",
+  "notes": "fix: prime cold tally page once per session (first Sample count read 0); keeps diag one more round"
 }
