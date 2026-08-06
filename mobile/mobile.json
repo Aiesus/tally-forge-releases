@@ -1,5 +1,5 @@
 {
-  "version": "1.5.6",
-  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.5.6.apk",
-  "notes": "misread gate = all-digits only, no length (leading zeros drop in scan)"
+  "version": "1.5.7",
+  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.5.7.apk",
+  "notes": "aircraft list populates with no auto-selection \u2014 user picks"
 }
