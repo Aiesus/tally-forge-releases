@@ -1,5 +1,5 @@
 {
-  "version": "1.5.10",
-  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.5.10.apk",
-  "notes": "Phase B (safe): drop redundant post-search _settle in count path; capture header-settle timeline"
+  "version": "1.5.11",
+  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.5.11.apk",
+  "notes": "Phase B: cut _stableSearchCount floor 2.5s->1s + faster poll (from live 7:43 data); Overview counts quicker"
 }
