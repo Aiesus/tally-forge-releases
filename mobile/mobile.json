@@ -1,5 +1,5 @@
 {
-  "version": "1.5.7",
-  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.5.7.apk",
-  "notes": "aircraft list populates with no auto-selection \u2014 user picks"
+  "version": "1.5.8",
+  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.5.8.apk",
+  "notes": "Phase A: event-driven navigation (onPageFinished/onUrlChange + waitForSelector) replaces readyState padding on login/aircraft/BOW/tally"
 }
