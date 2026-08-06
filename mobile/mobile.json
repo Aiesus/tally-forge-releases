@@ -1,5 +1,5 @@
 {
-  "version": "1.5.8",
-  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.5.8.apk",
-  "notes": "Phase A: event-driven navigation (onPageFinished/onUrlChange + waitForSelector) replaces readyState padding on login/aircraft/BOW/tally"
+  "version": "1.5.9",
+  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.5.9.apk",
+  "notes": "recon: capture loading-mask class names during a count (Overview shows 'mask diag')"
 }
