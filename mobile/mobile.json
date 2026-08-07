@@ -1,5 +1,5 @@
 {
-  "version": "1.5.15",
-  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.5.15.apk",
-  "notes": "REAL FIX: force Exclude-Tallied OFF for Sample count (persisted-ON checkbox zeroed ready cards = 928 bug); revert timing hacks"
+  "version": "1.5.16",
+  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.5.16.apk",
+  "notes": "count path: drop redundant post-mode _settle (600ms x2/aircraft free); keep the functional 800ms"
 }
