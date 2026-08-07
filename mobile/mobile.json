@@ -1,5 +1,5 @@
 {
-  "version": "1.5.20",
-  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.5.20.apk",
-  "notes": "scan accuracy: 2-frame confirmation (reject single-frame misreads) + capture barcode format/length in log"
+  "version": "1.5.21",
+  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.5.21.apk",
+  "notes": "settings: minimum barcode length (default 7) + frames-to-confirm (default 2); length gate catches short Code39 partial misreads"
 }
