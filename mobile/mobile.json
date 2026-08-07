@@ -1,5 +1,5 @@
 {
-  "version": "1.5.19",
-  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.5.19.apk",
-  "notes": "feedback: error-only results (silent success), 15s same-card cooldown w/ note, smart re-scan (only re-check failed)"
+  "version": "1.5.20",
+  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.5.20.apk",
+  "notes": "scan accuracy: 2-frame confirmation (reject single-frame misreads) + capture barcode format/length in log"
 }
