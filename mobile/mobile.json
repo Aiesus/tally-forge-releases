@@ -1,5 +1,5 @@
 {
-  "version": "1.5.13",
-  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.5.13.apk",
-  "notes": "fix 928 sample=0: treat 0 as placeholder (6s confirm floor, take non-zero instantly) + re-run once on a 0; remove diagnostic"
+  "version": "1.5.14",
+  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.5.14.apk",
+  "notes": "diag: when a count reads 0, capture ALL Search Results headers + table rows + type/checkbox (find why 928=0)"
 }
