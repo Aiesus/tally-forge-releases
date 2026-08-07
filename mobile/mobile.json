@@ -1,5 +1,5 @@
 {
-  "version": "1.5.17",
-  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.5.17.apk",
-  "notes": "measure: capture mode auto-search settle time after mode click (Overview 'mode settle')"
+  "version": "1.5.18",
+  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.5.18.apk",
+  "notes": "remove mode-settle diagnostic; 800ms kept (measured ~1.1s mode search, already lean)"
 }
