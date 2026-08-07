@@ -1,5 +1,5 @@
 {
-  "version": "1.5.14",
-  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.5.14.apk",
-  "notes": "diag: when a count reads 0, capture ALL Search Results headers + table rows + type/checkbox (find why 928=0)"
+  "version": "1.5.15",
+  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.5.15.apk",
+  "notes": "REAL FIX: force Exclude-Tallied OFF for Sample count (persisted-ON checkbox zeroed ready cards = 928 bug); revert timing hacks"
 }
