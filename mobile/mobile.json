@@ -1,5 +1,5 @@
 {
-  "version": "1.5.16",
-  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.5.16.apk",
-  "notes": "count path: drop redundant post-mode _settle (600ms x2/aircraft free); keep the functional 800ms"
+  "version": "1.5.17",
+  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.5.17.apk",
+  "notes": "measure: capture mode auto-search settle time after mode click (Overview 'mode settle')"
 }
