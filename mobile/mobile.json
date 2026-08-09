@@ -1,5 +1,5 @@
 {
-  "version": "1.5.22",
-  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.5.22.apk",
-  "notes": "fix: silent lingering (no per-frame rebuild storm \u2014 restores queue counter + stops instant 'already scanned'); length gate now EXACT (misreads hit 6 and 8)"
+  "version": "1.5.23",
+  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.5.23.apk",
+  "notes": "fix intermittent count=0: re-add 0-suspicion floor (5s) in _stableSearchCount \u2014 a placeholder 0 no longer latched before the render"
 }
