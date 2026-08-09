@@ -1,5 +1,5 @@
 {
-  "version": "1.5.23",
-  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.5.23.apk",
-  "notes": "fix intermittent count=0: re-add 0-suspicion floor (5s) in _stableSearchCount \u2014 a placeholder 0 no longer latched before the render"
+  "version": "1.5.24",
+  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.5.24.apk",
+  "notes": "count race fix: adaptive wait for the filter's own auto-search to settle before ours (replaces fixed 800ms); drop the 5s 0-floor"
 }
