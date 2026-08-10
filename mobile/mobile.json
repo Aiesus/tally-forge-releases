@@ -1,5 +1,5 @@
 {
-  "version": "1.6.1",
-  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.6.1.apk",
-  "notes": "Fix: Workbench browser showed a blank page. Adds back/reload/home and the current address."
+  "version": "1.6.2",
+  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.6.2.apk",
+  "notes": "Fix: Workbench said 'not signed in' after logging in. Adds clearer diagnostics."
 }
