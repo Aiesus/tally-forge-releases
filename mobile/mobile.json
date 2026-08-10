@@ -1,5 +1,5 @@
 {
-  "version": "1.7.0",
-  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.7.0.apk",
-  "notes": "Scanning now signs Workbench QAR for matching cards. Adds a 'Signed here' list of what the app signed this session."
+  "version": "1.7.1",
+  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.7.1.apk",
+  "notes": "Workbench failures now show what went wrong in Recent instead of just beeping. Sign-off looks at the task page first, fixing cards deep in a large work package."
 }
