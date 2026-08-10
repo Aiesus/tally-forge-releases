@@ -1,5 +1,5 @@
 {
-  "version": "1.5.24",
-  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.5.24.apk",
-  "notes": "count race fix: adaptive wait for the filter's own auto-search to settle before ours (replaces fixed 800ms); drop the 5s 0-floor"
+  "version": "1.6.0",
+  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.6.0.apk",
+  "notes": "Workbench (Quickbase) tab: per-aircraft task list with QAR status and filters. Test mode: run the full scan check without signing EmpowerMX."
 }
