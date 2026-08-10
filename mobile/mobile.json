@@ -1,5 +1,5 @@
 {
-  "version": "1.6.2",
-  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.6.2.apk",
-  "notes": "Fix: Workbench said 'not signed in' after logging in. Adds clearer diagnostics."
+  "version": "1.7.0",
+  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.7.0.apk",
+  "notes": "Scanning now signs Workbench QAR for matching cards. Adds a 'Signed here' list of what the app signed this session."
 }
