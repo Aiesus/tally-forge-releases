@@ -1,5 +1,5 @@
 {
-  "version": "1.9.0",
-  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.9.0.apk",
-  "notes": "Scan log: every scan with its EmpowerMX and Workbench status, kept permanently, with CSV export. Workbench sign-off can now be deferred - scan without signing in and catch up later. Android backup disabled."
+  "version": "1.9.1",
+  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.9.1.apk",
+  "notes": "Fixed: cards that were sorted out later stayed on the Needs attention list. Sorted cards now clear automatically, and anything fixed outside the app can be marked handled."
 }
