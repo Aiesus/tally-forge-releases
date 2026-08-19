@@ -1,5 +1,5 @@
 {
-  "version": "1.7.3",
-  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.7.3.apk",
-  "notes": "Sign-off now uses the task page and enters the app first; waits longer for pages to populate."
+  "version": "1.8.0",
+  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.8.0.apk",
+  "notes": "Multiple users: each with their own EmpowerMX login and sign-off PIN. Switching signs out of both systems so cards are always signed by whoever is using the phone."
 }
