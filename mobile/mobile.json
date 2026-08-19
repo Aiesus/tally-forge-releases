@@ -1,5 +1,5 @@
 {
-  "version": "1.9.1",
-  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.9.1.apk",
-  "notes": "Fixed: cards that were sorted out later stayed on the Needs attention list. Sorted cards now clear automatically, and anything fixed outside the app can be marked handled."
+  "version": "1.9.2",
+  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.9.2.apk",
+  "notes": "Needs attention now tracks a card per aircraft, in case barcode numbers repeat across the fleet."
 }
