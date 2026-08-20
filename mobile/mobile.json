@@ -1,5 +1,5 @@
 {
-  "version": "1.12.2",
-  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.12.2.apk",
-  "notes": "Fix: the counter said 'signed' for cards that were already signed - those are now counted separately. Cards with previous rejections are flagged even when EmpowerMX had nothing left to sign."
+  "version": "1.13.0",
+  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.13.0.apk",
+  "notes": ""
 }
