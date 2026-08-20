@@ -1,5 +1,5 @@
 {
-  "version": "1.10.2",
-  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.10.2.apk",
-  "notes": "Fix: after using Overview, scanned cards could wrongly come back 'not found' because the Exclude Tallied Cards filter stayed on."
+  "version": "1.10.3",
+  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.10.3.apk",
+  "notes": "Fix: refreshing one aircraft's count could show the previous search's number - Count all was right, a single refresh was not. Fix: the reset control now reads 'Clear' and asks first, instead of a refresh-looking icon that wiped the failure list on a tap."
 }
