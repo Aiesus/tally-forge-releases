@@ -1,5 +1,5 @@
 {
-  "version": "1.10.1",
-  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.10.1.apk",
-  "notes": "App lock: unlock with your fingerprint or phone PIN, with a timeout you choose (Settings > Security, off by default). Time saved: the log now estimates how long the app has saved you, with the rates adjustable in Settings > Advanced."
+  "version": "1.10.2",
+  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.10.2.apk",
+  "notes": "Fix: after using Overview, scanned cards could wrongly come back 'not found' because the Exclude Tallied Cards filter stayed on."
 }
