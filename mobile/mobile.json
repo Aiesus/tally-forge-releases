@@ -1,5 +1,5 @@
 {
-  "version": "1.10.3",
-  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.10.3.apk",
-  "notes": "Fix: refreshing one aircraft's count could show the previous search's number - Count all was right, a single refresh was not. Fix: the reset control now reads 'Clear' and asks first, instead of a refresh-looking icon that wiped the failure list on a tap."
+  "version": "1.11.0",
+  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.11.0.apk",
+  "notes": "Cards voided in EmpowerMX are no longer signed on the 912 - they still get signed in EmpowerMX, and the log records why the Workbench half was skipped."
 }
