@@ -1,5 +1,5 @@
 {
   "version": "1.10.0",
   "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.10.0.apk",
-  "notes": "Time saved: the log now estimates how much manual sign-off work the app has done for you, using rates you can adjust. Settings tidied - advanced options are now in one collapsible section."
+  "notes": "App lock: unlock with your fingerprint or phone PIN, with a timeout you choose in Settings. Off by default."
 }
