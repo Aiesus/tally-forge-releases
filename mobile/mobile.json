@@ -1,5 +1,5 @@
 {
-  "version": "1.21.0",
-  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.21.0.apk",
-  "notes": "Audit tab: read the card audit assistant, stamp what you agree with"
+  "version": "1.21.1",
+  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.21.1.apk",
+  "notes": "Audit tab: read the card audit assistant, stamp what you agree with (1.21.0 shipped stale)"
 }
