@@ -1,5 +1,5 @@
 {
-  "version": "1.22.1",
-  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.22.1.apk",
-  "notes": "Audit tab shows the aircraft you are on, even before it has been fetched"
+  "version": "1.23.0",
+  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.23.0.apk",
+  "notes": "See fetch progress; pick any aircraft from the EmpowerMX fleet list"
 }
