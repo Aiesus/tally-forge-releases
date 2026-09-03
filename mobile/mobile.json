@@ -1,5 +1,5 @@
 {
-  "version": "1.21.2",
-  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.21.2.apk",
-  "notes": "Allow cleartext to the tailnet; audit server default port 8610"
+  "version": "1.22.0",
+  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.22.0.apk",
+  "notes": "Audit tab shows the aircraft you are on, even before it has been fetched"
 }
