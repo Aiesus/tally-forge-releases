@@ -1,5 +1,5 @@
 {
-  "version": "1.23.0",
-  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.23.0.apk",
-  "notes": "See fetch progress; pick any aircraft from the EmpowerMX fleet list"
+  "version": "1.24.0",
+  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.24.0.apk",
+  "notes": "See which cards the AI has read, and watch a long run progress"
 }
