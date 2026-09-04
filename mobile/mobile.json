@@ -1,5 +1,5 @@
 {
-  "version": "1.29.0",
-  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.29.0.apk",
-  "notes": "The report says how old it is, and warns when an audit is mid-run"
+  "version": "1.30.0",
+  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.30.0.apk",
+  "notes": "Find cards whose Workbench number is not derived from the jobcard"
 }
