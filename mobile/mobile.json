@@ -1,5 +1,5 @@
 {
-  "version": "1.24.0",
-  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.24.0.apk",
-  "notes": "See which cards the AI has read, and watch a long run progress"
+  "version": "1.25.0",
+  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.25.0.apk",
+  "notes": "AI read one card at a time, instead of the whole aircraft"
 }
