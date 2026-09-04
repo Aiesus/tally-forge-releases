@@ -1,5 +1,5 @@
 {
-  "version": "1.27.0",
-  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.27.0.apk",
-  "notes": "Progress bar and percentage while an audit runs"
+  "version": "1.28.0",
+  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.28.0.apk",
+  "notes": "Progress panel shows something useful; deep checks named correctly"
 }
