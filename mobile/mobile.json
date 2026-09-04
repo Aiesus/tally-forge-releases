@@ -1,5 +1,5 @@
 {
-  "version": "1.25.0",
-  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.25.0.apk",
-  "notes": "AI read one card at a time, instead of the whole aircraft"
+  "version": "1.26.0",
+  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.26.0.apk",
+  "notes": "See the last known cards when off the tailnet, clearly marked with their age"
 }
