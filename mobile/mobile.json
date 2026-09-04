@@ -1,5 +1,5 @@
 {
-  "version": "1.26.0",
-  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.26.0.apk",
-  "notes": "See the last known cards when off the tailnet, clearly marked with their age"
+  "version": "1.27.0",
+  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.27.0.apk",
+  "notes": "Progress bar and percentage while an audit runs"
 }
