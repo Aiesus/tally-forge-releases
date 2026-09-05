@@ -1,5 +1,5 @@
 {
-  "version": "1.32.1",
-  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.32.1.apk",
-  "notes": "Fix sending credentials to the box"
+  "version": "1.33.0",
+  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.33.0.apk",
+  "notes": "Signing from the report now checks login and selects the right aircraft"
 }
