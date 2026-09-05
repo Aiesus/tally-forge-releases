@@ -1,5 +1,5 @@
 {
-  "version": "1.30.0",
-  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.30.0.apk",
-  "notes": "Find cards whose Workbench number is not derived from the jobcard"
+  "version": "1.31.0",
+  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.31.0.apk",
+  "notes": "Fix the update 404; second-opinion layer on findings"
 }
