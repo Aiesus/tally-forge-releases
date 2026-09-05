@@ -1,5 +1,5 @@
 {
-  "version": "1.32.0",
-  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.32.0.apk",
-  "notes": "Send your EmpowerMX login to the box so it can fetch on its own"
+  "version": "1.32.1",
+  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.32.1.apk",
+  "notes": "Fix sending credentials to the box"
 }
