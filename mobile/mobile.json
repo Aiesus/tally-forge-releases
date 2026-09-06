@@ -1,5 +1,5 @@
 {
-  "version": "1.41.0",
-  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.41.0.apk",
-  "notes": "Manuals: actually apply the cookie setting before loading, and say whether it took"
+  "version": "1.42.0",
+  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.42.0.apk",
+  "notes": "Manuals: record what the browser actually does, and let you send it"
 }
