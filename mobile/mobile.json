@@ -1,5 +1,5 @@
 {
-  "version": "1.42.0",
-  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.42.0.apk",
-  "notes": "Manuals: record what the browser actually does, and let you send it"
+  "version": "1.43.0",
+  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.43.0.apk",
+  "notes": "Record what the browser actually does; refuse stale publishes"
 }
