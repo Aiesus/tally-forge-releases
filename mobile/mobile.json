@@ -1,5 +1,5 @@
 {
-  "version": "1.37.0",
-  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.37.0.apk",
-  "notes": "Manuals: go to a real page, not the host root"
+  "version": "1.38.0",
+  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.38.0.apk",
+  "notes": "Manuals: recover from the dead-session 404; require the portal click-through"
 }
