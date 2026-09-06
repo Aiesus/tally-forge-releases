@@ -1,5 +1,5 @@
 {
-  "version": "1.34.0",
-  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.34.0.apk",
-  "notes": "Stop button for audit runs"
+  "version": "1.35.0",
+  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.35.0.apk",
+  "notes": "Manuals: fetch from the phone; Stop button; clearer update failures"
 }
