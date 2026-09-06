@@ -1,5 +1,5 @@
 {
-  "version": "1.43.0",
-  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.43.0.apk",
-  "notes": "Record what the browser actually does; refuse stale publishes"
+  "version": "1.44.0",
+  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.44.0.apk",
+  "notes": "Manuals: present a desktop browser to the portal"
 }
