@@ -1,5 +1,5 @@
 {
-  "version": "1.39.0",
-  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.39.0.apk",
-  "notes": "Manuals: page renders again; reset always in the app bar"
+  "version": "1.40.0",
+  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.40.0.apk",
+  "notes": "Manuals: allow the third-party cookie the DigiDOC sign-in needs"
 }
