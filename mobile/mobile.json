@@ -1,5 +1,5 @@
 {
-  "version": "1.44.0",
-  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.44.0.apk",
-  "notes": "Manuals: present a desktop browser to the portal"
+  "version": "1.45.0",
+  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.45.0.apk",
+  "notes": "The portal is at /landing-page/Portal, not the root"
 }
