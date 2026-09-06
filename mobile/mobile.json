@@ -1,5 +1,5 @@
 {
-  "version": "1.47.0",
-  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.47.0.apk",
-  "notes": "Count what each cited section holds, before deciding whether to fetch them"
+  "version": "1.48.0",
+  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.48.0.apk",
+  "notes": "Manuals: show every note, with a copy button"
 }
