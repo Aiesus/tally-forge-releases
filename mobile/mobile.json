@@ -1,5 +1,5 @@
 {
-  "version": "1.33.0",
-  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.33.0.apk",
-  "notes": "Signing from the report now checks login and selects the right aircraft"
+  "version": "1.34.0",
+  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.34.0.apk",
+  "notes": "Stop button for audit runs"
 }
