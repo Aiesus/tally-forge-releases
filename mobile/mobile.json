@@ -1,5 +1,5 @@
 {
-  "version": "1.35.0",
-  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.35.0.apk",
-  "notes": "Manuals: fetch from the phone; Stop button; clearer update failures"
+  "version": "1.37.0",
+  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.37.0.apk",
+  "notes": "Manuals: go to a real page, not the host root"
 }
