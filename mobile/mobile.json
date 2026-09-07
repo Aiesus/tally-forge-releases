@@ -1,5 +1,5 @@
 {
-  "version": "1.53.0",
-  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.53.0.apk",
-  "notes": "Restart the audit server from the app; fetch the RII sheets"
+  "version": "1.54.0",
+  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.54.0.apk",
+  "notes": "Fetch Technical Supplements and RII sheets; GMM 3-03 rules"
 }
