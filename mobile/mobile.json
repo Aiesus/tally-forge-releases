@@ -1,5 +1,5 @@
 {
-  "version": "1.55.1",
-  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.55.1.apk",
-  "notes": "Tell a signed card from one that just left the list"
+  "version": "1.55.2",
+  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.55.2.apk",
+  "notes": "Show what is awaiting, not how many files are held"
 }
