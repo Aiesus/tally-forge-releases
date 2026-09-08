@@ -1,5 +1,5 @@
 {
-  "version": "1.54.2",
-  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.54.2.apk",
-  "notes": "Name what the contents page holds, so RII and TS can be diagnosed"
+  "version": "1.55.0",
+  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.55.0.apk",
+  "notes": "The whole DigiDOC library: ESPM, WM, FIM, SSM and the rest"
 }
