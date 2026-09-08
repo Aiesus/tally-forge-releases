@@ -1,5 +1,5 @@
 {
-  "version": "1.55.0",
-  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.55.0.apk",
-  "notes": "The whole DigiDOC library: ESPM, WM, FIM, SSM and the rest"
+  "version": "1.55.1",
+  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.55.1.apk",
+  "notes": "Tell a signed card from one that just left the list"
 }
