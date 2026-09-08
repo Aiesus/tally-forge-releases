@@ -1,5 +1,5 @@
 {
-  "version": "1.54.1",
-  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.54.1.apk",
-  "notes": "TS + RII fetch: the supplements have no contents page of their own"
+  "version": "1.54.2",
+  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.54.2.apk",
+  "notes": "Name what the contents page holds, so RII and TS can be diagnosed"
 }
