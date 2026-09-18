@@ -1,5 +1,5 @@
 {
-  "version": "1.55.5",
-  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.55.5.apk",
-  "notes": "Recognise a signed-in DigiDOC session correctly"
+  "version": "1.55.6",
+  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.55.6.apk",
+  "notes": "RII from the AMM, supplements from any manual"
 }
