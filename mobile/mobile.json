@@ -1,5 +1,5 @@
 {
-  "version": "1.55.6",
-  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.55.6.apk",
-  "notes": "RII from the AMM, supplements from any manual"
+  "version": "1.55.7",
+  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.55.7.apk",
+  "notes": "ESPM files are file-WM; supplements download from their own link"
 }
