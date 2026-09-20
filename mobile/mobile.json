@@ -1,5 +1,5 @@
 {
-  "version": "1.55.8",
-  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.55.8.apk",
-  "notes": "Supplement letters must match; tell the box which chapters have RII"
+  "version": "1.55.9",
+  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.55.9.apk",
+  "notes": "Buttons in the order you use them: Fetch, Manuals, Run checks, Deep checks. A running fetch now says how many cards of how many it has done."
 }
