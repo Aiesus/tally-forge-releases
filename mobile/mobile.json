@@ -1,5 +1,5 @@
 {
-  "version": "1.55.9",
-  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.55.9.apk",
-  "notes": "Buttons in the order you use them: Fetch, Manuals, Run checks, Deep checks. A running fetch now says how many cards of how many it has done."
+  "version": "1.56.0",
+  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.56.0.apk",
+  "notes": "AI read: pick how many cards on the wheel, and the box does every scan those cards are missing in the background. Reports now build in seconds instead of hours."
 }
