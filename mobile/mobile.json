@@ -1,5 +1,5 @@
 {
-  "version": "1.56.0",
-  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.56.0.apk",
-  "notes": "AI read: pick how many cards on the wheel, and the box does every scan those cards are missing in the background. Reports now build in seconds instead of hours."
+  "version": "1.56.1",
+  "apk": "https://raw.githubusercontent.com/Aiesus/tally-forge-releases/main/mobile/TallyForge-mobile-1.56.1.apk",
+  "notes": "The report now shows only cards still awaiting a signature, with a filter for the ones the AI has read. Honest time estimates on the AI read wheel, and it shows what it is working on."
 }
